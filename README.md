@@ -1,5 +1,3 @@
 # hello-world
 First Repository 
-Hello THis is my first commit to my own public repo
-commit
-New COmmit
+1-2-3

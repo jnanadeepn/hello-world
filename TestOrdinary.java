@@ -8,8 +8,7 @@ public class TestOrdinary {
 
                 System.out.println("Again Hello Wrld ");
                 System.out.println(".");
-
-    
+                System.out.println("This is my new line");
 	}
 
 }

@@ -6,6 +6,8 @@ public class TestOrdinary {
 
         System.out.println(" Hello Wrld");
 
+                System.out.println("Again Hello Wrld ");
+
     }
 
 

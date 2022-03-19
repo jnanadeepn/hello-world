@@ -9,7 +9,7 @@ public class TestOrdinary {
                 System.out.println("Again Hello Wrld ");
                 System.out.println(".");
 
-    
+    System.out.println(3+5);
 	}
 
 }

@@ -11,7 +11,7 @@ public class TestOrdinary {
                 System.out.println("This is my new line");
 
     System.out.println(3+5);
-
+System.out.println("practice");
 	}
 
 }
